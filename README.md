@@ -26,8 +26,13 @@ Originally, I wanted to do the entire process of creating the CSV in the backend
 
 #POSSIBLE IMPROVEMENTS
 -Make an actual functional UI on the web app that allows for ease of use
+
 -Include option for uploading files directly from computer
+
 -Include distributed computing for large datasets
+
 -Utilize a better library system to effectively generate the csv as opposed to generating it step by step
+
 -Implement more explanatory routes so that users can utilize the site more effectively
+
 -Include a status bar/ progress bar indicating how long it is taking for a file to be converted
